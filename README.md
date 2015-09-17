@@ -1,5 +1,4 @@
 # fastqq
-Fast QQ
 
 Usage: Rscript qq.R pvals.txt qq.png <n>
 
